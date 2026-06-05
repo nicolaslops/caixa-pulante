@@ -60,6 +60,8 @@ cd CAIXA-PULANTE
 
 3. Abra o arquivo index.html em seu navegador de preferência para visualizar a simulação.
 
+--- 
+
 ## Estrutura do Projeto
 
 ```text
